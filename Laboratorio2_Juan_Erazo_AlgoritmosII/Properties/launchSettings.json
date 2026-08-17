@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Laboratorio2_Juan_Erazo_AlgoritmosII": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
