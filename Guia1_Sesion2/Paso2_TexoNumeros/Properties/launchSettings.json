@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Paso2_TexoNumeros": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
